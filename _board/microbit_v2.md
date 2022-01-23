@@ -21,6 +21,10 @@ The latest micro:bit will fit right into your existing lessons and materials; al
 
 It's the same size and shape as the original micro:bit so you can use the same accessories you already own.
 
+Original(shared with V1):
+- LSM303DLHTR
+
+
 Some new features of the board:
 
 - A more powerful Nordic nRF52833 processor, lots more RAM and Flash so MicroPython works a lot better!
@@ -31,3 +35,5 @@ Some new features of the board:
 
 ### Purchase
 - [Adafruit](https://www.adafruit.com/product/4781)
+
+
